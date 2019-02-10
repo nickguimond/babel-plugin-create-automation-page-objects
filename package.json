@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-create-automation-page-objects",
+  "version": "1.0.0",
+  "description": "Scans react jsx elements for automation attribute to create automation page objects",
+  "main": "index.js",
+  "author": "nicholas.guimond@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickguimond/babel-plugin-create-automation-page-objects.git"
+  },
+  "keywords": [
+    "babel",
+    "regression",
+    "jsx",
+    "testing",
+    "page",
+    "objects"
+  ],
+  "bugs": {
+    "url": "https://github.com/nickguimond/babel-plugin-create-automation-page-objects/issues"
+  },
+  "homepage": "https://github.com/nickguimond/babel-plugin-create-automation-page-objects#readme"
+}
