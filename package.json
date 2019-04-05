@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-create-automation-page-objects",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Scans react jsx elements for automation attribute to create automation page objects",
   "main": "index.js",
   "author": "nicholas.guimond@gmail.com",
